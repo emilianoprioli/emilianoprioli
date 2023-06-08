@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋, welcome
 
-<!--
-**emilianoprioli/emilianoprioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966](https://github.com/emilianoprioli/emilianoprioli/assets/95387415/e70a37da-bca7-4398-aa28-e814f490b407)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
