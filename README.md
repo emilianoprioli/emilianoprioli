@@ -1,3 +1,4 @@
+<div align="center">
 ### <div align="center">I'm Emiliano Prioli, a FullStack developer 👨‍💻 working remotely 🚀</div>  
   
 
@@ -114,3 +115,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
