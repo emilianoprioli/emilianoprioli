@@ -26,7 +26,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -52,7 +52,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
-<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg](https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="Sequelize" height="50" /></a>  
+<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="Sequelize" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -64,7 +64,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
- <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" alt="Trello" height="50" /></a>  
+ <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" alt="Trello" height="40" /></a>  
 </div>
 
 </td></tr></table>  
@@ -89,7 +89,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilianoprioli&hide_border=true&layout=compact" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=emilianoprioli&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emilianoprioli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
